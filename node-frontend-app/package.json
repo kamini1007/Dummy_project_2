@@ -1,0 +1,10 @@
+{
+  "name": "node-frontend-app",
+  "version": "1.0.0",
+  "description": "Demo project for Scanner Findings - deliberately outdated dependencies",
+  "main": "src/app.js",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "0.0.8"
+  }
+}

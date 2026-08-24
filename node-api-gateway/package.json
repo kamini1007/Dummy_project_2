@@ -1,0 +1,10 @@
+{
+  "name": "node-api-gateway",
+  "version": "1.0.0",
+  "description": "Demo project for Scanner Findings - deliberately outdated dependencies",
+  "main": "src/gateway.js",
+  "dependencies": {
+    "axios": "0.21.0",
+    "express": "4.16.0"
+  }
+}
